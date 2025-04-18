@@ -1,6 +1,10 @@
 markdown
 <h1 align="center" color="red">Code X Cloner</h1>
 <p align="center">
+  <p align="center">
+  <img src="https://img.shields.io/badge/Made%20By-CODE%20X-red?style=for-the-badge&logo=github" />
+</p>
+
   🚀 Clone entire Discord servers including channels, roles, emojis, and more!
 </p>
 
