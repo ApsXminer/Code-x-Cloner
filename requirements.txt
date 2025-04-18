@@ -1,0 +1,15 @@
+psutil
+Presence
+discord
+asyncio
+colorama
+fore
+pystyle
+psutil
+pypresence
+discord
+asyncio
+colorama
+platforms
+discord==1.7.3
+discord.py==1.7.3
