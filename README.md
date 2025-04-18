@@ -8,6 +8,7 @@ markdown
   <img src="https://img.shields.io/badge/status-stable-green?style=flat-square" />
   <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square" />
   <img src="https://img.shields.io/github/license/ApsXminer/Code-x-Cloner?style=flat-square" />
+  <a href="https://discord.gg/3xzPkYHd9U" target="_blank"><img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge"></a>
 </p>
 
 
