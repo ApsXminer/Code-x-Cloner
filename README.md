@@ -74,3 +74,13 @@ Choose from the menu:
 ## 📝 License
 
 Licensed under the [MIT License](LICENSE).
+
+### 👥 Community & Support
+
+- 💬 [Join our Discord](https://discord.gg/3xzPkYHd9U)
+- 🌟 Star the repo if you like it!
+- 🔗 [GitHub - CODE X](https://github.com/ApsXminer)
+
+
+
+<p align="center">&copy; 2025 CODEX Team | Developed with ❤️ by ApsXminer</p>
