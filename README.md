@@ -27,8 +27,8 @@ markdown
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourname/Aura-Cloner
-cd Aura-Cloner
+git clone https://github.com/ApsXminer/Code-x-Cloner
+cd Code-x-Cloner
 ```
 
 ### 2. Install Requirements
