@@ -1,4 +1,4 @@
-markdown
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Code+X+Cloner+%F0%9F%9A%80;Made+by+CODE+X+Community" alt="Typing SVG" />
 </h1>
@@ -13,7 +13,6 @@ markdown
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-stable-green?style=flat-square" />
   <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square" />
   <img src="https://img.shields.io/github/license/ApsXminer/Code-x-Cloner?style=flat-square" />
   <a href="https://discord.gg/3xzPkYHd9U" target="_blank">
