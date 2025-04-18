@@ -11,6 +11,8 @@ markdown
   <a href="https://discord.gg/3xzPkYHd9U" target="_blank"><img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge"></a>
 </p>
 
+![Tool Preview](CodeXPreview.png)
+
 
 ## ✨ Features
 
