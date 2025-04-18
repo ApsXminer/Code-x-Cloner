@@ -1,4 +1,13 @@
 markdown
+<h1 align="center">
+  🚀 <span style="color:red">Code X Cloner</span> 🚀
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Stable-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20By-CODE%20X-red?style=for-the-badge&logo=github">
+</p>
+
 <h1 align="center" color="red">Code X Cloner</h1>
 <p align="center">
   <p align="center">
