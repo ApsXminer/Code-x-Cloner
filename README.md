@@ -1,19 +1,14 @@
 markdown
 <h1 align="center">
-  🚀 <span style="color:red">Code X Cloner</span> 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Code+X+Cloner+%F0%9F%9A%80;Made+by+CODE+X+Community" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Stable-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Made%20By-CODE%20X-red?style=for-the-badge&logo=github">
-</p>
-
-<h1 align="center" color="red">Code X Cloner</h1>
-<p align="center">
-  <p align="center">
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20By-CODE%20X-red?style=for-the-badge&logo=github" />
 </p>
 
+<p align="center">
   🚀 Clone entire Discord servers including channels, roles, emojis, and more!
 </p>
 
@@ -21,11 +16,20 @@ markdown
   <img src="https://img.shields.io/badge/status-stable-green?style=flat-square" />
   <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square" />
   <img src="https://img.shields.io/github/license/ApsXminer/Code-x-Cloner?style=flat-square" />
-  <a href="https://discord.gg/3xzPkYHd9U" target="_blank"><img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge"></a>
+  <a href="https://discord.gg/3xzPkYHd9U" target="_blank">
+    <img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge" />
+  </a>
 </p>
 
-![Tool  Preview](CodeXPreview.png)
+---
 
+## 📸 Preview
+
+<p align="center">
+  <img src="CodeXPreview.png" alt="Tool Preview" width="700" />
+</p>
+
+---
 
 ## ✨ Features
 
@@ -35,7 +39,7 @@ markdown
 - 🛡️ Token validity checker
 - 🖥️ Simple CLI with menu interface
 
-
+---
 
 ## 📦 Setup
 
@@ -72,6 +76,7 @@ Choose from the menu:
 - View server info
 - Check token
 
+---
 
 ## ⚠️ Disclaimer
 
@@ -79,23 +84,30 @@ Choose from the menu:
 > Misusing this tool against Discord’s [Terms of Service](https://discord.com/terms) may result in **account suspension or bans**.  
 > Always use with your own servers or those you have permission to manage.
 
+---
 
 ## 🧠 Credits
 
 - Made by **SYNTAX**
 - Upgraded by **CODE X**
 
+---
 
 ## 📝 License
 
 Licensed under the [MIT License](LICENSE).
 
-### 👥 Community & Support
+---
+
+## 👥 Community & Support
 
 - 💬 [Join our Discord](https://discord.gg/3xzPkYHd9U)
 - 🌟 Star the repo if you like it!
 - 🔗 [GitHub - CODE X](https://github.com/ApsXminer)
 
+---
 
+<p align="center">
+  &copy; 2025 <strong>CODEX Team</strong> | Developed with ❤️ by <strong>ApsXminer</strong>
+</p>
 
-<p align="center">&copy; 2025 CODEX Team | Developed with ❤️ by ApsXminer</p>
