@@ -34,7 +34,7 @@ cd Code-x-Cloner
 ### 2. Install Requirements
 
 ```bash
-pip install requests pystyle
+pip install -r requirements.txt
 ```
 
 ### 3. Add Your Token
